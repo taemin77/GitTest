@@ -7,5 +7,10 @@ public class CreaterMasterCommitDe {
 		
 		// 첨부터 다시 하지 이제 1에서 같은 줄에 수정을 하지
 	}
+	
+	// 함수도 하나 만들었는데 충돌 안나는 부분이지
+	public void dd(){
+		
+	}
 
 }
